@@ -43,7 +43,7 @@ user nginx;
 However, in the current installation, you will find the following line, 
 
 ```bash
-user  www-date;
+user  www-data;
 ```
 don't worry, they function the same. Just modify the line that includes the ``*.conf`` file(s).
 
