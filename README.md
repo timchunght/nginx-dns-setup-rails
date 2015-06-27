@@ -49,7 +49,7 @@ don't worry, they function the same. Just modify the line that includes the ``*.
 
 So, don't copy and paste the ``nginx.conf`` but you may copy the ``default.conf`` after modifying it to your need.
 
-I hope this guide is helpful. In my example, I used mina to deploy my rails app. The location of the app, which is specified ``root /var/www/printatcu/current/public;`` should be similar who those of you who used capistrano.
+I hope this guide is helpful. In my example, I used mina to deploy my rails app. The location of the app, which is specified as ``root /var/www/printatcu/current/public;`` should be similar to those of you who used capistrano.
 
 
 
